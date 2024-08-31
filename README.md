@@ -1,6 +1,6 @@
-  <p align="center">  
+  <p align="">  
     <img alt="secktor docs" height="150" src="https://github.com/Ravidu-Sri/Photo_Url/blob/main/1725085273175.jpg">
-    <h1 align="center"> MY YT CHANGE </h1>
+    <h1 align=""> MY YT CHANGE </h1>
 </p>  
 <p align="center">
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/KwFkWjI8qJ6B174esar8IM" target="_blank">
